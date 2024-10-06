@@ -17,5 +17,5 @@ Install the required libraries using pip:
 pip install pandas matplotlib seaborn
 ```
 ## Instructions
-1.Make sure to change the address of you csv file in the programme before running the code.
+1.Make sure to change the address of you csv file in the programme before running the code.<br>
 2.After the first window is displayed, close the window and the next chart will be automatically displayed.
